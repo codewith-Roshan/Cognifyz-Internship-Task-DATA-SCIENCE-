@@ -1,4 +1,5 @@
-# Cognifyz-Internship-Task-DATA-SCIENCE-
+# Cognifyz-Internship-Task-DATA-SCIENCE
+#All LEVEL (1,2,3) TASK
 **Problem Statement:**
 
 The problem presented by this dataset is to analyze and gain insights from a collection of restaurant data. The data includes various attributes such as restaurant name, location, cuisine type, average cost for two, rating, and more. The goal is to perform exploratory data analysis and potentially build predictive models to answer questions such as what factors influence restaurant ratings, how different cuisines are received by customers, and whether there are correlations between certain attributes.
