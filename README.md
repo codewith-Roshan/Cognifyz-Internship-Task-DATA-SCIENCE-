@@ -30,12 +30,15 @@ The dataset consists of information related to various restaurants. The columns 
 - `Votes`: Number of votes the restaurant has received.
 
 **Data Processing:**
+
 Understanding and Cleaning the data
 
-**Data Exploration**
+**Data Exploration:**
+
 Analyze the data through Visualization
 
-**Model Performed**
+**Model Performed:**
+
 Linear Regression, Decision Tree, Random Forest
 
 **Conclusion:**
@@ -58,6 +61,8 @@ After analyzing the dataset, several conclusions can be drawn:
 
 8. **Visualization:** Visualizations such as histograms, bar plots, and box plots helped depict the distribution of ratings, cuisines, and other variables, aiding in understanding patterns.
 
-**ML Classification**
+**ML Classification:**
+
 Random forest and decision tree is the best performing model out of all models.
+
 Linear regression is the worst performing model for our dataset
